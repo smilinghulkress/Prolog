@@ -10,3 +10,4 @@ List of Programs:
 	6. Find 2nd last element of a list
 	7. Reverse of a list
 	8. Palindrome
+	9. Resolution in Logic - https://en.wikipedia.org/wiki/Resolution_(logic)
